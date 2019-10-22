@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Load gcc-8.2.0
 export PATH=/opt/gcc-8.2.0/bin:$PATH
 export LD_LIBRARY_PATH=/opt/gcc-8.2.0/lib64:$LD_LIBRARY_PATH
